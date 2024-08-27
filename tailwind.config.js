@@ -26,6 +26,7 @@ module.exports = {
       'ofken_8': '#aca6a9',
       'ofken_9': '#6c3a1d',
       'ofken_10': '#546c74',
+      'ofken_11': 'rgba(255,255,255,1)',
     },
     extend: {},
   },
