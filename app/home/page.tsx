@@ -34,11 +34,7 @@ export default function MainHome() {
                 </Button>
               </CardFooter>
             </Card>
-            <Card
-              isFooterBlurred
-              className="border-none w-[200px]"
-              radius="lg"
-            >
+            <Card isFooterBlurred className="border-none w-[200px]" radius="lg">
               <Image
                 alt="Woman listing to music"
                 className="object-cover"
@@ -59,11 +55,7 @@ export default function MainHome() {
                 </Button>
               </CardFooter>
             </Card>
-            <Card
-              isFooterBlurred
-              className="border-none w-[200px]"
-              radius="lg"
-            >
+            <Card isFooterBlurred className="border-none w-[200px]" radius="lg">
               <Image
                 alt="Woman listing to music"
                 className="object-cover"
